@@ -986,7 +986,7 @@ body{
        line-height: 20px;
    }
    .footer_down{
-       margin-left: 20px;
+       padding-left: 20px;
    }
    .form_a{
        padding: 5px 15px;
